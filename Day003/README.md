@@ -132,13 +132,3 @@ One important lesson was understanding that editor hints are not actual code.
 ✅ Improved TypeScript knowledge
 
 ✅ Continued building a production-level project
-
----
-
-# Tomorrow
-
-- Build resume cards
-- Add responsive layouts
-- Improve UI styling
-- Continue learning Tailwind CSS
-- Begin upload functionality
