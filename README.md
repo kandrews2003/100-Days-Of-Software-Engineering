@@ -22,15 +22,14 @@ Become a stronger Software Engineer by building real projects, improving my prob
 ## Progress
 
 | Day | Topic | Status |
-|-----|-------|--------|
-| Day 1 | Project Setup | ✅ |
-| Day 2 | | |
-| Day 3 | | |
-| Day 4 | | |
-| Day 5 | | |
+|------|-----------------------------------------------|--------|
+| Day 1 | Project Setup & Development Environment | ✅ |
+| Day 2 | React Foundations & Component Architecture | ✅ |
+| Day 3 | Dynamic Rendering with React & TypeScript | ✅ |
+| Day 4 |  | ⏳ |
+| Day 5 |  | ⏳ |
 
 ---
-
 ## Current Projects
 
 - PulseDeck AI
