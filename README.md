@@ -26,7 +26,8 @@ Become a stronger Software Engineer by building real projects, improving my prob
 | Day 1 | Project Setup & Development Environment | ✅ |
 | Day 2 | React Foundations & Component Architecture | ✅ |
 | Day 3 | Dynamic Rendering with React & TypeScript | ✅ |
-| Day 4 |  | ⏳ |
+| Day 4 | TypeScript Debugging, Routing & Asset Management
+ | ⏳ |
 | Day 5 |  | ⏳ |
 
 ---
