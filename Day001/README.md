@@ -12,4 +12,4 @@ Start the 100 Days of Software Engineering challenge.
 
 ## Time
 
-45 minutes
+45 MIN
