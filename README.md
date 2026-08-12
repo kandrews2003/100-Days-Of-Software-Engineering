@@ -26,8 +26,15 @@ Become a stronger Software Engineer by building real projects, improving my prob
 | Day 1 | Project Setup & Development Environment | ✅ |
 | Day 2 | React Foundations & Component Architecture | ✅ |
 | Day 3 | Dynamic Rendering with React & TypeScript | ✅ |
-| Day 4 | TypeScript Debugging, Routing & Asset Management| ⏳ |
-| Day 5 |  | ⏳ |
+| Day 4 | TypeScript Debugging, Routing & Asset Management| ✅ |
+| Day 5 | React State Management & User Interactions |✅|
+| Day 6 |Forms, Event Handling & Controlled Components | ✅ |
+| Day 7 | API Integration & Asynchronous Data Fetching | ✅ |
+| Day 8 | Data Management, Loading States & Error Handling | ✅ |
+| Day 9 | Advanced Component Development & Application Integration | ⏳ |
+
+
+
 
 ---
 ## Current Projects
