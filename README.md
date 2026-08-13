@@ -2,7 +2,7 @@
 
 Welcome to my 100 Days of Software Engineering challenge!
 
-## Goa
+## Goal
 
 Become a stronger Software Engineer by building real projects, improving my problem-solving skills, and learning cloud technologies.
 
