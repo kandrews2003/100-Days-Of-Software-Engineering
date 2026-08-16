@@ -1,5 +1,5 @@
 
-# Day 4 – AI Resume Analyzer 🚀
+# Day 4 – RESULYTIC, AI Resume Analyzer 🚀
 
 ## Today's Goal
 Continue building the Resume Card component for my AI Resume Analyzer (Resulytic) using React, TypeScript, and React Router.
