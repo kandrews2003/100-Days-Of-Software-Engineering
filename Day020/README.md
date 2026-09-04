@@ -1,4 +1,4 @@
-# Day 020 - Back to Building
+# Day 020 - Back to Building.
 
 I missed several days in my 100 Days of Software Engineering challenge.
 
