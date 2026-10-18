@@ -8,7 +8,7 @@ Become a stronger Software Engineer by building real projects, improving my prob
 
 ---
 
-## Focus Areas
+## Focus Areas Topics
 
 - 💻 Software Development
 - ⚛️ React & TypeScript
